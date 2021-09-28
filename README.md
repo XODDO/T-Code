@@ -1,2 +1,2 @@
 # T-Code
-for the TW20 kits to manage hand-washes
+the Mastercode for the mighty TW20 to manage hand-washes
